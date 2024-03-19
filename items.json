@@ -1,14 +1,9 @@
 {
   "items": [
-    { "name": "Bierre 50", "price": 8, "image": "img/pomme.jpg" },
-    { "name": "Banane", "price": 0.3, "image": "img/banane.jpg" },
-    { "name": "Orange", "price": 0.7, "image": "img/orange.jpg" },
-    { "name": "Poire", "price": 0.6, "image": "img/poire.jpg" },
-    { "name": "Fraise", "price": 0.8, "image": "img/fraise.jpg" },
-    { "name": "Cerise", "price": 0.4, "image": "img/cerise.jpg" },
-    { "name": "Mangue", "price": 1.2, "image": "img/mangue.jpeg" },
-    { "name": "Ananas", "price": 1.5, "image": "img/ananas.jpg" },
-    { "name": "Melon", "price": 1.0, "image": "img/melon.jpg" },
-    { "name": "Citron", "price": 0.5, "image": "img/citron.jpg" }
+    { "name": "Bière 50  ", "price": 8, "image": "img/pomme.jpg" },
+    { "name": "Bière 25  ", "price": 5, "image": "img/banane.jpg" },
+    { "name": "Bière 50 vip  ", "price": 6, "image": "img/orange.jpg" },
+    { "name": "Bière 25 vip "price": 4, "image": "img/poire.jpg" },
+    { "name": "Monaco 25  ", "price": 5, "image": "img/fraise.jpg" },
   ]
 }
