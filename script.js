@@ -13,7 +13,7 @@ fetch("items.json")
 
       let priceElement = document.createElement("span");
       priceElement.className = "price";
-      priceElement.textContent = ` ${item.price}€`;
+      priceElement.textContent = `${item.price}€`;
 
       let imageElement = document.createElement("img");
       imageElement.src = item.image;
@@ -21,7 +21,6 @@ fetch("items.json")
       let buttonElement = document.createElement("button");
       buttonElement.textContent = "Ajouter au panier";
 
-      // Ajoute un gestionnaire d'événements pour le bouton
       buttonElement.addEventListener("click", () => {
         total += item.price;
         document.getElementById("total").textContent = total.toFixed(2);
