@@ -64,3 +64,18 @@ button#reset:hover {
   background-color: #e53935; /* rouge plus foncé au survol */
 }
 
+.item img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.name {
+  margin-bottom: 10px;
+}
+
+.name {
+  margin-bottom: 10px;
+}
