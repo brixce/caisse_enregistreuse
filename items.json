@@ -1,6 +1,6 @@
 {
   "items": [
-    { "name": "Pomme", "price": 0.5, "image": "img/pomme.jpg" },
+    { "name": "Bierre 50", "price": 8, "image": "img/pomme.jpg" },
     { "name": "Banane", "price": 0.3, "image": "img/banane.jpg" },
     { "name": "Orange", "price": 0.7, "image": "img/orange.jpg" },
     { "name": "Poire", "price": 0.6, "image": "img/poire.jpg" },
