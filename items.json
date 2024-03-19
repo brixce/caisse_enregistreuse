@@ -1,24 +1,14 @@
 {
   "items": [
-    { "name": "Biere 50", "price": 8 },
-    { "name": "Biere 25", "price": 5 },
-    { "name": "Consigne", "price": 1 },
-    { "name": "Canette", "price": 2,5 },
-    { "name": "Eau", "price": 2 },
-    { "name": "Menu soft", "price": 7 },
-    { "name": "Menu soft-dessert", "price": 9 },
-    { "name": "Ananas", "price": 1.5 },
-    { "name": "Melon", "price": 1.0 },
-    { "name": "Citron", "price": 0.5 },
-    { "name": "Pêche", "price": 0.7 },
-    { "name": "Abricot", "price": 0.6 },
-    { "name": "Kiwi", "price": 0.8 },
-    { "name": "Raisin", "price": 0.9 },
-    { "name": "Pamplemousse", "price": 0.7 },
-    { "name": "Myrtille", "price": 1.0 },
-    { "name": "Framboise", "price": 1.1 },
-    { "name": "Mûre", "price": 1.2 },
-    { "name": "Prune", "price": 0.6 },
-    { "name": "Grenade", "price": 1.3 }
+    { "name": "Pomme", "price": 0.5, "image": "img/pomme.jpg" },
+    { "name": "Banane", "price": 0.3, "image": "img/banane.jpg" },
+    { "name": "Orange", "price": 0.7, "image": "img/orange.jpg" },
+    { "name": "Poire", "price": 0.6, "image": "img/poire.jpg" },
+    { "name": "Fraise", "price": 0.8, "image": "img/fraise.jpg" },
+    { "name": "Cerise", "price": 0.4, "image": "img/cerise.jpg" },
+    { "name": "Mangue", "price": 1.2, "image": "img/mangue.jpeg" },
+    { "name": "Ananas", "price": 1.5, "image": "img/ananas.jpg" },
+    { "name": "Melon", "price": 1.0, "image": "img/melon.jpg" },
+    { "name": "Citron", "price": 0.5, "image": "img/citron.jpg" }
   ]
 }
