@@ -5,5 +5,7 @@
     { "name": "Bière 50 vip  ", "price": 6, "image": "img/orange.jpg" },
     { "name": "Bière 25 vip ", "price": 4, "image": "img/poire.jpg" },
     { "name": "Monaco 25  ", "price": 5, "image": "img/fraise.jpg" },
+    { "name": "Menu soft hot dog / sandwich ", "price": 7, "image": "img/poire.jpg" },
+    
   ]
 }
