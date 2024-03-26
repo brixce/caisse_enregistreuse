@@ -24,6 +24,6 @@
     { "name": "Saucisson  ", "price": 6, "image": "img/fraise.jpg" },
     { "name": "Donuts Beignet  ", "price": 3, "image": "img/fraise.jpg" },
     { "name": "Barbe a papa  ", "price": 3.5, "image": "img/fraise.jpg" },
-    { "name": "  ", "price": 5.5, "image": "img/fraise.jpg" },
+    { "name": "  ", "price": 5.5, "image": "img/fraise.jpg" }
   ]
 }
