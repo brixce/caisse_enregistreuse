@@ -5,10 +5,16 @@
     { "name": "Bière 50cl vip  ", "price": 6, "image": "img/orange.jpg" },
     { "name": "Bière 25cl vip ", "price": 4, "image": "img/poire.jpg" },
     { "name": "Monaco 25cl  ", "price": 5, "image": "img/fraise.jpg" },
-    {
+    { 
       "name": "Menu soft hot dog / sandwich ",
       "price": 7,
       "image": "img/poire.jpg"
     }
+    { "name": "Caution   ", "price": 1, "image": "img/fraise.jpg" },
+    { "name": "Tartiflette   ", "price": 5, "image": "img/fraise.jpg" },
+    { "name": "PopCorn petit  ", "price": 4, "image": "img/fraise.jpg" },
+    { "name": "PopCorn moyen  ", "price": 6, "image": "img/fraise.jpg" },
+    { "name": "PopCorn grand  ", "price": 8, "image": "img/fraise.jpg" },
+    { "name": "Sucette  ", "price": 4, "image": "img/fraise.jpg" },
   ]
 }
