@@ -22,7 +22,7 @@
     { "name": "croque monsieur  ", "price": 6.5, "image": "img/croque.jpg" },
     { "name": "Hot Dog  ", "price": 5.5, "image": "img/hot.jpg" },
     { "name": "Saucisson  ", "price": 6, "image": "img/saucisson.jpg" },
-    { "name": "Donuts Beignet  ", "price": 3, "image": "img/donnut.jpg" },
+    { "name": "Donuts Beignet  ", "price": 2.5, "image": "img/donnut.jpg" },
     { "name": "Barbe a papa  ", "price": 3.5, "image": "img/barbe.jpg" }
   ]
 }
