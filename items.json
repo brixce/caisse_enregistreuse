@@ -18,7 +18,5 @@
     { "name": "Sucette  ", "price": 4, "image": "img/fraise.jpg" },
     { "name": "croque monsieur  ", "price": 6.5, "image": "img/fraise.jpg" },
     { "name": "Hot Dog  ", "price": 5.5, "image": "img/fraise.jpg" },
-    
-    
   ]
 }
