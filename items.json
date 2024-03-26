@@ -16,5 +16,9 @@
     { "name": "PopCorn moyen  ", "price": 6, "image": "img/fraise.jpg" },
     { "name": "PopCorn grand  ", "price": 8, "image": "img/fraise.jpg" },
     { "name": "Sucette  ", "price": 4, "image": "img/fraise.jpg" },
+    { "name": "croque monsieur  ", "price": 6.5, "image": "img/fraise.jpg" },
+    { "name": "Hot Dog  ", "price": 5.5, "image": "img/fraise.jpg" },
+    
+    
   ]
 }
